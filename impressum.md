@@ -2,7 +2,7 @@
 ID: 25192
 post_title: Impressum
 post_type: page
-published: false
+published: true
 ---
 <h1>Impressum</h1>
 
