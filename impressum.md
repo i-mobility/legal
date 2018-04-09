@@ -32,3 +32,6 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 <h2>Akzeptierte Zahlungsmittel</h2>
 
 Du kannst Tickets mit Kreditkarte (VISA oder Mastercard) bezahlen.
+
+Martin spielt nur rum, das kann dann weg.
+
