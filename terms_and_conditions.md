@@ -2,7 +2,7 @@
 ID: 25174
 post_title: AGB wegfinder / iMobility GmbH
 post_type: page
-published: false
+published: true
 ---
 <h1>Allgemeine Geschäftsbedingungen</h1>
 

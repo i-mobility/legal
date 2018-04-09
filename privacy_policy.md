@@ -2,7 +2,7 @@
 ID: 25186
 post_title: Datenschutzerklärung
 post_type: page
-published: false
+published: true
 ---
 <h1>Datenschutzerklärung</h1>
 
