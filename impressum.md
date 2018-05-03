@@ -5,30 +5,40 @@ post_type: page
 published: true
 ---
 <h1>Impressum</h1>
+<strong>iMobility GmbH</strong>
+Weyringergasse 5/B4
+1040 Wien
+Österreich
 
-<strong>iMobility GmbH</strong><br>
-Prinz-Eugen-Straße 18/36<br>
-1040 Wien, Österreich<br>
-+43 664 88260 792<br>
-info@wegfinder.at
+Tel: +43 664 88260 792
+Email: info@wegfinder.at
 
-UID: ATU69741345<br>
-DVR: 4015262<br>
-FN 434586 y, registriert beim Handelsgericht Wien
+Firmensitz: Wien
+Rechtsform: GmbH
+Registriert beim Handelsgericht Wien unter: FN 434586y
+Umsatzsteuer-Identifikationsnummer/UID: ATU69741345
+DVR: 4015262
 
+Unternehmensgegenstand der iMobility GmbH ist die Entwicklung von digitalen Produkten, Dienstleistungen und Services im Mobilitätsbereich.
 
-<h2>Unternehmensgegenstand</h2>
+<a href="https://wegfinder.at/impressum/management/">Mitglieder der Geschäftsführung der iMobility GmbH</a>
 
-Entwicklung von digitalen Produkten, Dienstleistungen und Services im Mobilitätsbereich.
+Datenschutzbeauftragter der iMobility GmbH
 
+Die iMobility GmbH ist eine 100-prozentige Tochtergesellschaft der Österreichische Bundesbahnen-Holding AG, mit Sitz Am Hauptbahnhof 2, A-1100 Wien, deren Unternehmensgegenstand insbesondere die Wahrnehmung ihrer Anteilsrechte an den umstrukturierten ÖBB-Gesellschaften ist und deren Anteile zu 100% dem Bund vorbehalten sind.
 
-<h2>Datenschutz</h2>
+Die Website dient der Präsentation der iMobility GmbH und der Information der Öffentlichkeit über die Aufgaben und Leistungen der iMobility GmbH.
 
-<a href="https://wegfinder.at/datenschutz">Datenschutzerklärung</a>
+Der ÖBB-Konzern ist Mitglied der Wirtschaftskammern Wien, Niederösterreich, Burgenland, Steiermark, Oberösterreich, Salzburg, Kärnten, Tirol und Vorarlberg.
 
-Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+Die iMobility GmbH ist in Reisebüroangelegenheiten Mitglied der Wirtschaftskammer Wien - Fachgruppe Reisebüro.
 
+Zuständige Aufsichtsbehörde in Reisebüroangelegenheiten: Magistrat der Stadt Wien, Magistratisches Bezirksamt für den 4./5. Bezirk, Rechte Wienzeile 105, 1050 Wien.
 
+Für Reisebüros gelten folgende Rechtsvorschriften: siehe Homepage des Fachverbands der Reisebüros unter <a href="http://www.reisebueros.at/rechtsvorschriften">www.reisebueros.at/rechtsvorschriften</a>
+
+Gewerberechtliche Vorschriften: Gewerbeordnung
+
+(Offenlegung gemäß § 25 Mediengesetz und § 5 E-Commerce-Gesetz)
 <h2>Akzeptierte Zahlungsmittel</h2>
-
 Du kannst Tickets mit Kreditkarte (VISA oder Mastercard) bezahlen.
