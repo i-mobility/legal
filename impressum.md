@@ -23,7 +23,7 @@ Unternehmensgegenstand der iMobility GmbH ist die Entwicklung von digitalen Prod
 
 <a href="https://wegfinder.at/impressum/management/">Mitglieder der Geschäftsführung der iMobility GmbH</a>
 
-<a href="https://wegfinder.at/impressum/https://wegfinder.at/impressum/datenschutzbeauftragter/">Datenschutzbeauftragter der iMobility GmbH</a>
+<a href="https://wegfinder.at/impressum/datenschutzbeauftragter/">Datenschutzbeauftragter der iMobility GmbH</a>
 
 Die iMobility GmbH ist eine 100-prozentige Tochtergesellschaft der Österreichische Bundesbahnen-Holding AG, mit Sitz Am Hauptbahnhof 2, A-1100 Wien, deren Unternehmensgegenstand insbesondere die Wahrnehmung ihrer Anteilsrechte an den umstrukturierten ÖBB-Gesellschaften ist und deren Anteile zu 100% dem Bund vorbehalten sind.
 
