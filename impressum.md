@@ -17,7 +17,7 @@ Firmensitz: Wien
 Rechtsform: GmbH
 Registriert beim Handelsgericht Wien unter: FN 434586y
 Umsatzsteuer-Identifikationsnummer/UID: ATU69741345
-DVR: 4015262
+
 
 Unternehmensgegenstand der iMobility GmbH ist die Entwicklung von digitalen Produkten, Dienstleistungen und Services im Mobilitätsbereich.
 
