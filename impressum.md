@@ -41,4 +41,4 @@ Gewerberechtliche Vorschriften: Gewerbeordnung
 
 (Offenlegung gemäß § 25 Mediengesetz und § 5 E-Commerce-Gesetz)
 <h2>Akzeptierte Zahlungsmittel</h2>
-Du kannst Tickets mit Kreditkarte (VISA oder Mastercard) bezahlen.
+Du kannst Tickets mit Kreditkarte (VISA oder Mastercard) oder mit Debitkarte (mit online Zahlungsfunktion) bezahlen.
