@@ -188,7 +188,7 @@ E-Mail: <a>datenschutz@i-mobility.at</a></p>
 <p>Darüber hinaus haben Sie das Recht eine <strong>Beschwerde</strong> bei der Datenschutzbehörde gemäß §§ 24ff DSG und Artikel 77ff DSGVO einzureichen, wenn Sie der Ansicht sind, wir würden gegen Verpflichtungen nach der Datenschutzgrundverordnung verstoßen.</p>
 <p><strong>Kontaktdaten</strong>:<br />
 Österreichische Datenschutzbehörde,<br />
-1080 Wien, Wickenburggasse 8<br />
+Barichgasse 40-12, 1030 Wien<br />
 Telefon: +43 1 52 152-0<br />
 E-Mail: dsb@dsb.gv.at<br />
 www.dsb.gv.at</p>
